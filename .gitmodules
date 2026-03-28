@@ -1,3 +1,0 @@
-[submodule "qsyssr/openwrt-storehouse/xgp"]
-	path = qsyssr/openwrt-storehouse/xgp
-	url = https://github.com/timsaya/luci-app-bandix.git
