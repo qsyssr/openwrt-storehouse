@@ -19,3 +19,6 @@
 [submodule "xgp/kmod-fb-tft-gc9307"]
 	path = xgp/kmod-fb-tft-gc9307
 	url = https://github.com/zzzz0317/kmod-fb-tft-gc9307.git
+[submodule "xgp/xgp-v3-screen"]
+	path = xgp/xgp-v3-screen
+	url = https://github.com/zzzz0317/xgp-v3-screen.git
