@@ -4,3 +4,6 @@
 [submodule "xgp/luci-app-bandix"]
 	path = xgp/luci-app-bandix
 	url = https://github.com/timsaya/luci-app-bandix.git
+[submodule "xgp/mt5700webui-openwrt-server"]
+	path = xgp/mt5700webui-openwrt-server
+	url = https://github.com/vadimrew/mt5700webui-openwrt-server.git
