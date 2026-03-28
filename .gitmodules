@@ -7,3 +7,6 @@
 [submodule "xgp/mt5700webui-openwrt-server"]
 	path = xgp/mt5700webui-openwrt-server
 	url = https://github.com/vadimrew/mt5700webui-openwrt-server.git
+[submodule "xgp/openwrt-bandix"]
+	path = xgp/openwrt-bandix
+	url = https://github.com/timsaya/openwrt-bandix.git
