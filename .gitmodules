@@ -28,3 +28,6 @@
 [submodule "xgp/luci-app-easytier"]
 	path = xgp/luci-app-easytier
 	url = https://github.com/EasyTier/luci-app-easytier.git
+[submodule "xgp/luci-app-lucky"]
+	path = xgp/luci-app-lucky
+	url = https://github.com/gdy666/luci-app-lucky.git
