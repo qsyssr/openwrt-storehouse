@@ -25,3 +25,6 @@
 [submodule "xgp/luci-app-adguardhome"]
 	path = xgp/luci-app-adguardhome
 	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
+[submodule "xgp/luci-app-easytier"]
+	path = xgp/luci-app-easytier
+	url = https://github.com/EasyTier/luci-app-easytier.git
