@@ -10,3 +10,6 @@
 [submodule "xgp/openwrt-bandix"]
 	path = xgp/openwrt-bandix
 	url = https://github.com/timsaya/openwrt-bandix.git
+[submodule "zz-packages/kmod-fb-tft-gc9307"]
+	path = zz-packages/kmod-fb-tft-gc9307
+	url = https://github.com/zzzz0317/kmod-fb-tft-gc9307.git
